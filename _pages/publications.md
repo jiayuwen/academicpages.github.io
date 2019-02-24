@@ -13,4 +13,4 @@ Lin CJ, Hu F, Dubruille R, Vedanayagam J, Wen J., Smibert P, Loppin B, Lai EC. T
 Full Text HTML | PDF
 
 
-You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=Hb1ojSwAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Hb1ojSwAAAAJ&hl=en">my Google Scholar profile</a>.</u>
