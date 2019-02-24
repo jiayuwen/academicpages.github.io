@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "people"
+title: ""
 permalink: /people/
 author_profile: true
 redirect_from:
@@ -11,7 +11,14 @@ redirect_from:
 
 Group Leader
 ======
-Jean Wen
+Dr. Jean Wen
+
+Department of Genome Sciences,
+The John Curtin School of Medical Research (JCSMR)
+The Australian National University
+Office: 3.091.Ph:+61 2 6125 1746
+Building 131, Garran road
+Canberra, ACT, 2601 AUSTRALIA
 
 PhD students
 ======
