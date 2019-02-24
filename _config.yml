@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Wen Lab"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : "Computational Biology Laboratory of RNA and Functional Genomics"
-  location         : "John Curtin School of Medical Research, The Australian National University"
+  location         : "https://jcsmr.anu.edu.au/"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Hb1ojSwAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jiayu_Wen2/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
