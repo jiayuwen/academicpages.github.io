@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the Jean Wen's Lab at the John Curtin School of Medical Research at The Australian National University
+This is the Jean Wen's Lab at the John Curtin School of Medical Research at The Australian National University.
+
 Our Lab is a newly established computational biology lab of RNA and functional genomics. 
 
