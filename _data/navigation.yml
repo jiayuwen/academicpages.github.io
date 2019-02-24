@@ -2,9 +2,6 @@
 main:
   - title: "PEOPLE"
     url: /people/
-
-  - title: "CV"
-    url: /cv/
       
   - title: "RESEARCH"
     url: /research/
