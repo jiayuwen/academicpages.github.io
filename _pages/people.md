@@ -24,6 +24,15 @@ Masters students
 ======
 Ying Zheng
 
+Honours students
+======
+Hyunjin Kim
+
+Undergraduate students
+======
+Lixinyu Liu
+
+
 Alumni
 ======
 Pauline Humbert (Summer intern, 2018, University Nice Sophia Antipolis, France)
