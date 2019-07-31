@@ -7,5 +7,5 @@ author.googlescholar: true
 ---
 
 
-
-coming soon
+google scholar:
+https://scholar.google.com/citations?user=Hb1ojSwAAAAJ&hl=en
