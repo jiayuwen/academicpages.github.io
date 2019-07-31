@@ -11,8 +11,10 @@ redirect_from:
 
 Lab Funding
 ======
-•	ARC Future Fellow 2017-2021
+•	ARC Future Fellowship
 
-•	Vetenskapsradet Natural and Engineering Sciences Grant 2016-2020
+•	Australian National University Futures Scheme
+
+•	Vetenskapsradet Natural and Engineering Sciences Grant
 
 
